@@ -2,7 +2,7 @@
 
 
 ### GPU vs Numba
-![gpu.png](gpu.png)
+![gpu.png](images/gpu.png)
 
 ### CPU vs Numba
-![cpu.png](cpu.png)
+![cpu.png](images/cpu.png)
